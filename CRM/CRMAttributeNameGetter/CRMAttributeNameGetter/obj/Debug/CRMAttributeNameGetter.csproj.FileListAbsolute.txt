@@ -1,0 +1,13 @@
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\obj\Debug\CRMAttributeNameGetter.csprojResolveAssemblyReference.cache
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\bin\Debug\CRMAttributeNameGetter.exe
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\bin\Debug\CRMAttributeNameGetter.pdb
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\bin\Debug\microsoft.crm.sdk.proxy.dll
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\bin\Debug\microsoft.xrm.client.dll
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\bin\Debug\microsoft.xrm.sdk.dll
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\bin\Debug\microsoft.crm.sdk.proxy.xml
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\bin\Debug\microsoft.xrm.client.xml
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\bin\Debug\microsoft.xrm.sdk.xml
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\obj\Debug\CRMAttributeNameGetter.exe
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\obj\Debug\CRMAttributeNameGetter.pdb
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\bin\Debug\CRMAttributeNameGetter.exe.config
+C:\Storage_Vlad\Development\Personal Dev\CRMAttributeNameGetter\CRMAttributeNameGetter\bin\Debug\SharpCompress.dll
